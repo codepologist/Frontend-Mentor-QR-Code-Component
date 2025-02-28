@@ -38,6 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [https://www.onealombu.xyz](https://www.onealombu.xyz)
+- Website - [https://www.onealombu.com.ng](https://www.onealombu.com.ng)
 - Frontend Mentor - [@ombudev](https://www.frontendmentor.io/profile/ombudev)
-- Twitter - [@OmbuWebDev](https://www.twitter.com/OmbuWebDev)
+- Twitter - [@ONealOmbu](https://www.twitter.com/ONealOmbu)
