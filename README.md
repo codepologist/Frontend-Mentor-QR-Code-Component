@@ -33,8 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [BulmaCSS](https://bulmacss.io/) - For styles
-
+- [BulmaCSS](https://bulma.io/) - For styles
 
 ## Author
 
